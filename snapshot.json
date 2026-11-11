@@ -1,0 +1,15 @@
+{
+  "site": "applications",
+  "publicationRepository": "mandolin/HIA-Documentation-Resources-Applications",
+  "repository": "mandolin/HIA-Documentation",
+  "commit": "60319b63ee66b59146feddbd183ad07466ad9aba",
+  "registrySha256": "20b851e50490543ca35f1d9dccdf495f138e97daeb482fb353c4c7fb567bb8cb",
+  "tag": "resources-applications-60319b6",
+  "asset": "resources-applications-60319b6.tar.gz",
+  "files": 57800,
+  "bytes": 753794440,
+  "gzipSha256": "2165626de63ee19693259e9e19e9dd22885e5bfece9a192b0a9fa2f71197a12d",
+  "tarSha256": "b8e1144d8c0647568f6c968beea083850eb7ee043a7a29666a804029bc7a455b",
+  "tarBytes": 853278720,
+  "reportSha256": "df0d17797fc691f695b261ddb103a83f98d385d9939c1ab50dd5d4a3f2ed456e"
+}
