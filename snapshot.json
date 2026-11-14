@@ -2,14 +2,14 @@
   "site": "applications",
   "publicationRepository": "mandolin/HIA-Documentation-Resources-Applications",
   "repository": "mandolin/HIA-Documentation",
-  "commit": "6ed04c9b029a00307090e18d8acd2552e820f6b0",
+  "commit": "a5cc6100200da93a5e19a769d185e374b9f3b25a",
   "registrySha256": "9a7104ed182117511b194baa9fc8d7542c5731f7ae23ad125bc18857f272e8e3",
-  "tag": "resources-applications-6ed04c9",
-  "asset": "resources-applications-6ed04c9.tar.gz",
+  "tag": "resources-applications-a5cc610",
+  "asset": "resources-applications-a5cc610.tar.gz",
   "files": 70438,
-  "bytes": 923975216,
-  "gzipSha256": "380ecf8b6c5c1b9d359668d17c13e1244e5035eee4a211711ca868fad18c1d3f",
-  "tarSha256": "ddbc0eb24dfa2db474aa29a4de45d3d312a635f61846d8f5b510428f0470ff63",
-  "tarBytes": 978882560,
-  "reportSha256": "785fc98bdbe19332beab54e7cd4e5c73353d0d1124a11e620aac472ef3da0603"
+  "bytes": 919278230,
+  "gzipSha256": "2c530db01a778f4a3875bfa6943f46fc7a95f8e70dcfeb130e499bbbf3e16d2e",
+  "tarSha256": "e489e8e8c5c0515fb3abf346982ecd4c42e37e8ec5fd90a0ad365d2e9e178f51",
+  "tarBytes": 974059520,
+  "reportSha256": "a4f88a87443fa722a4569f40dd9299835bda0223b362301ee5c84f2567f94abc"
 }
